@@ -1,0 +1,7 @@
+langchain_community
+openai
+huggingface_hub
+python-dotenv
+ipykernel
+beautifulsoup4
+streamlit
