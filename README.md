@@ -6,10 +6,10 @@ This is a simple Streamlit web app that uses **Langchain**, **Ollama**, and **LL
 
 ## 🚀 Features
 
-- Built using **Streamlit** for the frontend.
-- Uses **Langchain** for prompt chaining.
-- LLaMA 3 model is loaded via **Ollama** locally.
-- Designed to be a lightweight demo.
+- ✅ Built using **Streamlit** for the frontend.
+- ✅ Uses **Langchain** for chaining and prompt templates.
+- ✅ **LLaMA 3** model is served via **Ollama** locally.
+- ✅ Integrated with **LangSmith** for experiment tracking and debugging.
 
 ---
 
